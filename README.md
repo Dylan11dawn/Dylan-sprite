@@ -1,4 +1,4 @@
-<TextureAtlas imagePath="tord_assets.png">
+<TextureAtlas imagePath="Dylan-assets.png">
 <!--  Created with Adobe Animate version 21.0.4.39603  -->
 <!--  http://www.adobe.com/products/animate.html  -->
 <SubTexture name="Dylan down0000" x="0" y="0" width="558" height="33" frameX="0" frameY="-8" frameWidth="342" frameHeight="644"/>
@@ -16,22 +16,22 @@
 <SubTexture name="Dylan down0012" x="342" y="0" width="558" height="33" frameX="-10" frameY="0" frameWidth="342" frameHeight="644"/>
 <SubTexture name="Dylan down0013" x="342" y="0" width="558" height="33" frameX="-10" frameY="0" frameWidth="342" frameHeight="644"/>
 <SubTexture name="Dylan down0014" x="342" y="0" width="328" height="33" frameX="-10" frameY="0" frameWidth="342" frameHeight="644"/>
-<SubTexture name="Dylan idle0000" x="670" y="0" width="341" height="652" frameX="0" frameY="-11" frameWidth="342" frameHeight="663"/>
-<SubTexture name="Dylan idle0001" x="670" y="0" width="341" height="652" frameX="0" frameY="-11" frameWidth="342" frameHeight="663"/>
-<SubTexture name="Dylan idle0002" x="1011" y="0" width="337" height="657" frameX="-5" frameY="-6" frameWidth="342" frameHeight="663"/>
-<SubTexture name="tord idle0003" x="1011" y="0" width="337" height="657" frameX="-5" frameY="-6" frameWidth="342" frameHeight="663"/>
-<SubTexture name="tord idle0004" x="1348" y="0" width="334" height="662" frameX="-8" frameY="-1" frameWidth="342" frameHeight="663"/>
-<SubTexture name="tord idle0005" x="1348" y="0" width="334" height="662" frameX="-8" frameY="-1" frameWidth="342" frameHeight="663"/>
-<SubTexture name="tord idle0006" x="1682" y="0" width="333" height="663" frameX="-9" frameY="0" frameWidth="342" frameHeight="663"/>
-<SubTexture name="tord idle0007" x="1682" y="0" width="333" height="663" frameX="-9" frameY="0" frameWidth="342" frameHeight="663"/>
-<SubTexture name="tord idle0008" x="1682" y="0" width="333" height="663" frameX="-9" frameY="0" frameWidth="342" frameHeight="663"/>
-<SubTexture name="tord idle0009" x="1682" y="0" width="333" height="663" frameX="-9" frameY="0" frameWidth="342" frameHeight="663"/>
-<SubTexture name="tord idle0010" x="1682" y="0" width="333" height="663" frameX="-9" frameY="0" frameWidth="342" frameHeight="663"/>
-<SubTexture name="tord idle0011" x="1682" y="0" width="333" height="663" frameX="-9" frameY="0" frameWidth="342" frameHeight="663"/>
-<SubTexture name="tord idle0012" x="1682" y="0" width="333" height="663" frameX="-9" frameY="0" frameWidth="342" frameHeight="663"/>
-<SubTexture name="tord idle0013" x="1682" y="0" width="333" height="663" frameX="-9" frameY="0" frameWidth="342" frameHeight="663"/>
-<SubTexture name="tord idle0014" x="1682" y="0" width="333" height="663" frameX="-9" frameY="0" frameWidth="342" frameHeight="663"/>
-<SubTexture name="tord left0000" x="0" y="663" width="341" height="645" frameX="0" frameY="-1" frameWidth="354" frameHeight="646"/>
+<SubTexture name="Dylan idle0000" x="25" y="32" width="341" height="652" frameX="0" frameY="-11" frameWidth="342" frameHeight="663"/>
+<SubTexture name="Dylan idle0001" x="88" y="126" width="341" height="652" frameX="0" frameY="-11" frameWidth="342" frameHeight="663"/>
+<SubTexture name="Dylan idle0002" x="88" y="126" width="337" height="657" frameX="-5" frameY="-6" frameWidth="342" frameHeight="663"/>
+<SubTexture name="Dylan idle0003" x="88" y="126" width="337" height="657" frameX="-5" frameY="-6" frameWidth="342" frameHeight="663"/>
+<SubTexture name="Dylan idle0004" x="222" y="44" width="334" height="662" frameX="-8" frameY="-1" frameWidth="342" frameHeight="663"/>
+<SubTexture name="Dylan idle0005" x="222" y="44" width="334" height="662" frameX="-8" frameY="-1" frameWidth="342" frameHeight="663"/>
+<SubTexture name="Dylan idle0006" x="222" y="44" width="333" height="663" frameX="-9" frameY="0" frameWidth="342" frameHeight="663"/>
+<SubTexture name="Dylan idle0007" x="222" y="44" width="333" height="663" frameX="-9" frameY="0" frameWidth="342" frameHeight="663"/>
+<SubTexture name="Dylan idle0008" x="222" y="44" width="333" height="663" frameX="-9" frameY="0" frameWidth="342" frameHeight="663"/>
+<SubTexture name="Dylan idle0009" x="222" y="44" width="333" height="663" frameX="-9" frameY="0" frameWidth="342" frameHeight="663"/>
+<SubTexture name="Dylan idle0010" x="222" y="44" width="333" height="663" frameX="-9" frameY="0" frameWidth="342" frameHeight="663"/>
+<SubTexture name="Dylan idle0011" x="222" y="44" width="333" height="663" frameX="-9" frameY="0" frameWidth="342" frameHeight="663"/>
+<SubTexture name="Dylan idle0012" x="222" y="44" width="333" height="663" frameX="-9" frameY="0" frameWidth="342" frameHeight="663"/>
+<SubTexture name="Dylan idle0013" x="222" y="44" width="333" height="663" frameX="-9" frameY="0" frameWidth="342" frameHeight="663"/>
+<SubTexture name="Dylan idle0014" x="222" y="44" width="333" height="663" frameX="-9" frameY="0" frameWidth="342" frameHeight="663"/>
+<SubTexture name="Dylan left0000" x="0" y="663" width="341" height="645" frameX="0" frameY="-1" frameWidth="354" frameHeight="646"/>
 <SubTexture name="tord left0001" x="0" y="663" width="341" height="645" frameX="0" frameY="-1" frameWidth="354" frameHeight="646"/>
 <SubTexture name="tord left0002" x="341" y="663" width="345" height="646" frameX="-9" frameY="0" frameWidth="354" frameHeight="646"/>
 <SubTexture name="tord left0003" x="341" y="663" width="345" height="646" frameX="-9" frameY="0" frameWidth="354" frameHeight="646"/>
